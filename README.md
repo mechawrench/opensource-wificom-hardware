@@ -1,5 +1,11 @@
 # Open Source WiFiCom Hardware - Build your own!
 
+<p align="center">
+    <a href="https://discord.gg/yJ4Ub64zrP">
+        <img src="https://dcbadge.vercel.app/api/server/yJ4Ub64zrP">
+    </a>
+</p>
+
 ![WiFiCom, Assembled](/images/wificom_1.jpg)
 
 This repository provides the needed files to make a THT(Through Hole Technology) PCB for the WiFiCom Hardware.  THT was chosen to make this more accessible, SMT (Surface Mount Technology) is quite the step up.  Also included are basic 3d models for the enclosure.  You are free to use these files for any purpose but attribution is required.
